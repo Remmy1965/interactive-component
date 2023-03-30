@@ -13,6 +13,7 @@
   margin-left: auto;
   background-color: hsl(216, 12%, 8%);
   height: 100vh;
+  gap: 15px;
 }
 
 .general-box,
